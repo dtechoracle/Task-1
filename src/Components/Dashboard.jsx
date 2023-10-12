@@ -16,7 +16,7 @@ const Dashboard = () => {
         {/* Page Title */}
         <main className="flex-1 overflow-x-hidden overflow-y-auto w-full bg-gray-200">
           <div className="container mx-auto px-6 py-8">
-            <h3 className="text-gray-700 text-3xl font-medium">PayBuddies Dashboard</h3>
+            <h3 className="text-gray-700 text-3xl font-medium">PayBuddies</h3>
             {/* Financial Data */}
             <FinancialData />  
             </div>
